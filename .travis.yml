@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+deploy:
+  provider: heroku
+  api_key: c5814f9c-d0f5-4120-bb34-a73ab2fc51bd
+app: practicanote-aos-rvg
